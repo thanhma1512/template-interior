@@ -5,11 +5,10 @@
 
     <div class="max-w-7xl mx-auto px-6 py-16 flex flex-col md:flex-row gap-10">
         <div class="md:w-1/2" style="margin-left: 100px;">
-            <h2 class="text-4xl font-bold mb-6">Collection</h2>
-            <p class="text-gray-700 leading-relaxed mb-6">
+            <h2 class="text-3xl font-bold mb-6">Collection</h2>
+            <p class="text-gray-400 leading-relaxed mb-6">
                 If you are a furniture retailer and you don’t use our services, you are probably NOT getting the best
                 for your business.
-                <br><br>
                 Our business is based in Ho Chi Minh City and our clients here include most of the very best
                 manufacturers of both indoor and outdoor furniture available.
             </p>

@@ -18,14 +18,12 @@
 
             <div class="space-y-5">
                 <h3 class="text-3xl font-semibold text-black">Our Story</h3>
-                <p class="text-gray-600 leading-relaxed text-justify text-[15px]">
+                <p class="text-gray-400 leading-relaxed text-justify text-[15px]">
                     BfVN is a small group of highly experienced furniture and business people based in Ho Chi Minh City,
                     Vietnam who have over 40 years of working in furniture, especially in manufacture and export,
                     marketing and business management.
-                    <br><br>
                     We have lived and worked in Vietnam since the early 1990s so we know almost everything of importance
                     that is happening in furniture in Vietnam, one of the hottest exporting countries in the world.
-                    <br><br>
                     Besides designing and manufacturing our own magnificent collections, we work together with other
                     factories to provide a kaleidoscope of high quality furniture products for the world markets.
                 </p>
